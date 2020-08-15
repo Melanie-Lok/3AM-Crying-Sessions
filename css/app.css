@@ -89,3 +89,10 @@ td {
     text-align: center;
     table-layout: fixed;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
