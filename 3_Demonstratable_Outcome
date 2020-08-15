@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>App testing</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body>
+
+    <div class="header-bg">
+
+        <header class="header-container">
+
+            <div class="logo-container">
+                <img src="background.png" class="heading">
+            </div>
+
+            <div class="links-container">
+                <a href="index.html" class="button">Members</a>
+                <a href="description.html" class="button">Description</a>
+                <a href="outcome.html" class="active">Demonstratable Outcomes</a>
+                <a href="justification.html" class="button">Project Justification</a>
+                <a href="tools.html" class="button">Tools/How</a>
+                <a href="timetable.html" class="button">Project Timetable</a>
+            </div>
+    </div>
+    </header>
+
+    <div class="desc">
+        <h1>Demonstratable Outcomes</h1>
+        <h2>Minimum Viable Feature 1- Facebook overlay</h2>
+
+        <p> The overlay will provide arrows and instructions when prompted to do particular/ specific tasks of the focussed apps. eg. logging into facebook, messaging loved ones, posting.</p>
+
+        <h3>Higher Level User Story</h3>
+        <p> Susan opens up the Boomer Life Support app and turns on the overlay. Susan wants to write a post on her facebook timeline discussing the importance of wearing a mask. she selects "write a post on facebook". Boomer Life Support opens up Facebook
+            and the overlay begins. An arrow points to the "Whats on your mind, Susan" bar and instructs her to click on it to begin writing. The overlay will also educate her on all the different types of things she can do with the post- she can change
+            the permissions, change the background, add pictures and emojis etc. attatched is a brief example of what to expect.</p>
+
+        <img src="fbOverlay.png">
+
+
+        <h2>Minimum Viable Feature 2- Gmail</h2>
+
+        <p>An overlay of Gmail will be provided to explain to users how to navigate their emails including; viewing, deleting, replying, sending etc etc. our app will also educate users on how to identify red flags from suspicious and potentially harmful
+            emails.</p>
+
+        <h3>Higher Level User Story</h3>
+
+        <p>Abe Simpson is sitting in his retirement home on his new iPad. He receives a notification from "Faceeb00k" telling him that his accounts been hacked and that he should click the link
+            < "ww2w.faceeb00k.account.com
+                /real/notascam"> to reset his password. Abe goes and clicks onto the link. BLS pops up and tells him that "this site may be harmful to you". It outlines redflags in the link and email. redflag 1: "Faceeb00k" redflag 2: ww2w redflag 3: "notascam" redlfag 4:
+                real By educating Abe Simpson on the redflags, Abe could theoretically see that the site is fake and understand how to look for redflags in the future.</p>
+
+        <h2>Minimum Viable Feature 3- Whatsapp</h2>
+
+        <p>Our app provides an overlay to assist the elderly in contacting their loved ones! A major issue a lot of elderly people face is loneliness and not having the means or know how to contact their friends and family. With Covid-19 still causing most
+            of the world to be in lockdown, our app would be especially useful at this moment in time. The overlay of our app will provide arrows and instructions on how to navigate whatsapp: calling, texting, sending attatchments etc!</p>
+        <h3>Higher Level User Story</h3>
+
+        <p>Albus Dumbledore has been feeling lonley during the summer break. He has been at home wishing he could speak to his family and friends. He opens up his Samsung Galaxy and goes onto whatsapp in hopes to contact someone. He switches to BLS once
+            he realises that working the whatsapp application would require some magic. He selects to receive "help with calls on whatsapp" on BLS and it switches over to whatsapp. Arrows come up and show him to go to his contacts and scroll to find who
+            he wants to call. He finds a contact and the BLS overlay points to the call icon to begin call. Albus presses it and within moments hes magically connected to his contact.</p>
+
+        <h2>Minimum Viable Feature 4- MyGov</h2>
+
+        <p>As we get older, it becomes more apparent that we get stuck in our old ways. Doing taxes has never been easier, yet some elderly people still choose to go through an accountant because 'they dont trust machines'. However, with our overlay, you
+            can just place your trust in us, people who want to make you feel comfortable and teach you how to use the app safely and effectively.</p>
+
+        <h3>Higher Lever User Story</h3>
+
+        <p>George has always completed his taxes through his accountant. He has always relied on a individual and never technology, however, its become progressively more difficult going to his account in the time of COVID. So he decides that maybe this
+            year he will do his taxes on his own, so he can get a nice tax return for his holiday when restrictions open up. He understands that myGov is the new app where you can place your own tax forms in, get centrelink payments and medicare rebates,
+            but he doesn't know how to use as its quite confusing. He decides to download Boomer Life Support, and immediately sees that it has an overlay for myGov. Life is bliss now that he can learn how to use the app and complete his own taxes.</p>
+
+        <h2>Minimum Viable Feature 5- Google Maps</h2>
+
+        <p>With most elderly people in Australia having experience with the melways, they may be reliant on it to assist them in getting to new locations. However, the melways is a complicated book and doesnt provide live assistance in navigating routes.
+            It also relies on the user to be able to remember and read street signs from a far. eg merging into the left lane to turn left at elizabeth street 500m ahead. This method can often be dangerous as the melways doesnt provide warning instructions
+            like modren day map services do. By teaching the elderly how to use modern map services like google maps or waze, they can focus on driving while AI instructs them on directions, and also eliminates the complicated process of using a melway.</p>
+
+        <h3>Higher Level User Story</h3>
+
+        <p>With the outdated and complicated melways book now being outdated and replaced with online maps, Hubert J Farnsworth wants to try the new and more modern google maps on his mobile device. Hubert needs to deliver a package to an old friend and
+            decides that today is the day he will try out google maps. He opens up BLS to assist him in maneuvering google maps. BLS opens up google maps and points to the search bar on the top of his screen. He selects it and puts in the address of his
+            destination. Hubert is then instructed to turn on his location by swiping down on the notifications screen. He does so and the app begins navigating him from his phone.</p>
+
+        <img src="maps.jpg" width=500px; height=900px>
+    </div>
+
+
+
+    <div class="desc">
+        <table style="width:100%; height: 200;"></table>
+        <h1>Demonstratable Outcomes</h1>
+        <h2>Extended Viable Features</h2>
+        <h3>Speech-to-text</h3>
+        <p>Speech-to-text allows a user who might struggle to type due to motor issues or physical issues. Example; An elderly man has larger fingers and struggles to type on his device, so he enables a speech text evaluator to recognise his voice and convert
+            it into written text.
+            <p>Validation: Text-to-speech has become something of the norm now with the increased volume of AI software being developed. Something as popular as Alexa, Siri and Google Assistant ensure that speech-to-text can be possible.</p>
+            <p>Montgomery Burns has some very weak and fragile fingers and struggles to type with his big hands on such a small screen. Mr Burns can ask BLS to type in a particular thing or ask BLS how to do a particular task. Mr Burns wants to go onto viber
+                and send his assistant a picture of his new fur vest. He says "Hey lifesupport, help me send a photo to Smithers." BLS opens up viber to Smithers and asks him which photo he would like to send. Mr Burns selects the first one and sends
+                it to Smithers.
+            </p>
+
+            <h3>Conversation Starter</h3>
+            <p>If elderly people ever feel lonely or cannot connect with their family members, we can create a chat bot that they can talk to. It would be thought how to handle any psychological problems elders might have to support them in what ever they
+                may be going through.
+                <p>Validation: Chatbot's are already developed out there, and therefore we can always design our own chatbot through Java. </p>
+                <p>Hans Moleman often finds himself a bit lonely in the retirement home. Hans pulls out his ipad and opens up BLS. Hans selects the chatbot. By selecting the chatbot, Hans can talk to the chatbot which will interact with him using the inbuilt
+                    AI. Hans tells the chatbot about the time he got hit by a football. Hans no longer feels as lonely and is comforted by the company provided by BLS.</p>
+
+                <h3>Large icons and features</h3>
+                <p>Large icons allows for people with larger features to access buttons easier and eliminate the ability to accidentally press other buttons.</p>
+
+                <p> Validation: Mjaority of apps these days have the ability to make there font sizes and features larger if required. Therefore we can try and adopt this process and help put this within our app.</p>
+                <p>Gary Fu has extremely large fingers, he gets progressively more frustrated as he continues to try press friend requests on facebook but clicks on marketplace at the same time. He manages to go into the settings and change the icons so
+                    that they are larger and he doesn't click on two buttons at once now. Life is good.</p>
+
+                <h3>Game Implementation</h3>
+                <p>We can try and implement a game that helps keep them acknowledging functions and features they just learnt within the app. Implementing a game will help activate certain parts of there brain that could help them remember more. Examples
+                    being a game like go fish, helps with memory, but instead of matching the same pictures, it would be match a defintion or function they learnt with the meaning behind it. E.g. match friend request with 'this is where you go to acccept
+                    or send request to people you want to be friends with'</p>
+                <p>Validation: Games like go fish, scrabble, and crossword puzzles. However, add our own iteration to it with our own words and defintions.</p>
+                <p>Alfred Pennyworth likes to stay ontop of his knowledge of technology. He wants to test his knowledge of modern day apps and tasks. Alfred decideds to open up BLS and open up the quiz screen- here, Alfred is tested on his knowledge on keywords
+                    or tasks surrounding the things hes learnt with the use of BLS. Alfred is kept busy while his partner sleeps through the day. Alfred is recapping his knowledge in quizzes, crossword puzzles and wordfinds while he waits for his partner
+                    to wake up.</p>
+
+                <h3>Magnifier Zoom</h3>
+                <p>Having a magnifier zoom allows for elderlypeople who struggle to see text/images from a far distance allows for them to adjust and focus on a specific item they wish to see.</p>
+                <p>Validation: Apple and certain Android phones contain a built in magnifier that help to provide the above description. However, not all phones allow it/have it, and dont do it successfully. We have to ensure that it doesn't blur images
+                    when they get magnified otherwise itll become a pointless feature.</p>
+                <p>Myrtle Wilson struggles with her vision. She always feels as if she has to be right up agaisnt her screen to see the letters on her device. She decides that instead of having her device pressed up against her face, she whips out her magnifying
+                    glass feature within boomer life support, and viola, she can see the paragraph on her daily news read now!</p>
+
+                <h3>Daily Reminders</h3>
+                <p>Get daily reminders of how there progress is going within the app. E.g. If they learnt something new on Facebook, they get a reminder of how they did it, ensuring that they wont forget the next time they use it.</p>
+                <p>Validation: Apps similar to the reminder app on iphone and calender reminders. Applies a notification when some condition has been met. E.g. Remind me to take my meds at 3pm, once 3pm hits, a post notification is sent to the users phone
+                    making them aware that they have to now take their meds.</p>
+                <p>Since Theguy Fromup lost his wife, he has forgotten to take his medication. With BLS, however, he can now log his medication in and the app will remind him when to take it. Theguy is prescribed to take panadol twice a day after the food.
+                    So Theguy goes int BLS and setups the reminders to remind him to take panadol at 12PM and 8PM.</p>
+
+                <h1>Project Motivation</h1>
+                <h3> Describe what motivated your group to choose this particular project? </h3>
+                <p>There were contributing factors that helped motivate this group to develop ‘Boomer Life Support’. In a time where we are currently restricted to our homes, communication between family members and friends has become harder than ever. Although,
+                    through the use of technology, it has been possible to continue our friendships and relationships through an online world. However, being an elderly person means that they might not be super confident or aware of the technology they
+                    have access to, and thus any knowledge of how to use it. So it was our intention as a group to try and develop an app that could explain to elderly people how to use the wonders of the tech world without having to actually be there
+                    in person. E.g. visiting grandparents to explain how to message online through social media.</p>
+                <p>Another motivator was the fact that two 2 members work in a retail tech store. Throughout these shifts, the two members are constantly approached by elderly people asking how to complete a certain task on their phone. Some of these questions
+                    include; ‘How do I open up Facebook?’, ‘How do I create an Email?’, ‘How do I reset my password?’. As a millennial, questions like this are easy to answer, however, it does get frustrating and annoying through constant questions. Therefore,
+                    we decided to develop an app that helps to answer these questions for them!</p>
+
+
+                <h3>How does it relate to your individual and collective interests? It is a laudable aim to try and create something which is beyond your current knowledge level and which addresses areas where you can enrich your IT Skills. </h3>
+                <p>This project motivates me because it focuses on the reason why I wanted to study IT, to help other people. Not only would this allow the elderly to learn technology and make their lives easier.</p>
+                <p>At the current skill level, we are still all quite new to HTML5 and CSS3, with an exception for the very basic functions. So in terms of developing a whole website, and promoting how our application will function will be a whole new challenge
+                    in itself. I definitely believe developing something beyond our skill set is a laudable aim. We all have different strengths and weaknesses, and therefore if we all learn off of each other, we can start to develop more skills. Some
+                    say being thrown into the deep end is a fast way to learn, we totally agree. Having to create a website from scratch, with the added functionality of CSS3 and JavaScript will help to develop our skills as web programmers, and hopefully
+                    spark some further interest into jobs in that field.</p>
+
+                <h3>If this relates to an idea you had in Introduction to IT, describe how this has now evolved/morphed into the current project and correlating this with feedback you have received. </h3>
+                <p>Boomer Life Support is a new project idea we came up with, thus having no correlation to our previous project. We wanted a completely fresh start and decided to challenge ourselves by working on something new to us. </p>
+    </div>
+
+    <footer>
+        <p><b>Contact me: BoomerLifeSupport@student.rmit.edu.au</b><br></p>
+        <p><b> &copy;Copyright, 2020- 3AM Crying Sessions.</b></p>
+        <p><b>This website and the contents itself has been curated, perfected and presented to you by 3AM Crying Sessions.</b></p>
+    </footer>
+
+</body>
+
+</html>
