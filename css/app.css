@@ -22,10 +22,9 @@ footer {
     margin: auto
 }
 
-.logo {
-    margin-left: ;
-    border-radius: 50%;
-    width: 150px;
+h1 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #CCC6B4;
 }
 
 
