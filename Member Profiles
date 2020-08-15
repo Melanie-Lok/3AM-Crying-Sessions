@@ -35,7 +35,7 @@
         <h1>Members</h1>
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="hoang.jpg" alt="Hoang Tran">
+                <img src="Hoang.jpg" alt="Hoang Tran">
             </tr>
             <tr>
                 <th>Name</th>
@@ -84,7 +84,7 @@
 
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="traj.jpg" alt="Mitchell Trajcevski">
+                <img src="MitchTrajcevski.jpg" alt="Mitchell Trajcevski">
             </tr>
             <tr>
                 <th>Name</th>
@@ -144,7 +144,7 @@
 
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="chris.jpg" alt="Christodoulos Voulismas">
+                <img src="ChrisVoulismas.jpg" alt="Christodoulos Voulismas">
             </tr>
             <tr>
                 <th>Name</th>
@@ -198,7 +198,7 @@
 
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="alph.jpg" alt="Alphonse Ziel Chan">
+                <img src="Alphonse.jpg" alt="Alphonse Ziel Chan">
             </tr>
             <tr>
                 <th>Name</th>
@@ -247,7 +247,7 @@
 
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="mel.jpg" alt="Melanie Lok">
+                <img src="Melanie.jpg" alt="Melanie Lok">
             </tr>
             <tr>
                 <th>Name</th>
@@ -297,7 +297,7 @@
 
         <table style="width:100%; height: 200;">
             <tr>
-                <img src="sam.jpg" alt="Ying Xin Teoh">
+                <img src="Sam.jpg" alt="Ying Xin Teoh">
             </tr>
             <tr>
                 <th>Name</th>
