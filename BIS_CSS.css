@@ -85,29 +85,32 @@
                                         width: 1200px;
                                         margin: auto;
                                     }
-                                    
-                                    table{
+
+                                    #estimationTable {
                                         width: 100%;
                                     }
-                               
-                                    th{
-                                        text-align: center;
-                                        table-layout: fixed;
+
+                                    #estimationTableHead th {
+                                        background-color: #5cbbf1;
+                                        font-size: 20px;
                                         padding:15px;
-                                        width:25%;
-                                        font-size:18px;
                                     }
                                     
-                                    td {
-                                        text-align: center;
-                                        table-layout: fixed;
-                                        padding:8px;
-                                    }
-
-                                    tr:nth-child(odd){
+                                    #estimationTable tr:nth-child(odd) {
                                         background-color: #f2f2f2;
                                     }
-                                    
+
+                                    #estimationTable tr {
+                                        font-size: 16px;
+                                        padding: 5px;
+                                    }
+
+                                    #estimationTable td {
+                                        text-align: center;
+                                        padding:10px;
+                                        font-size: 16px;
+                                    }
+
                                     img {
                                         display: block;
                                         margin-left: auto;
