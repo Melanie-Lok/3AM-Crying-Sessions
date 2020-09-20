@@ -107,21 +107,21 @@ p {
  font-size: 20px;
 }
 
-.h1-style {
- text-transform: uppercase;
- border-bottom: 2px solid blue;
- text-align: left;
- color: #2541b2;
-}
-
-.h2-style {
- text-transform: uppercase;
- border-bottom: 2px solid #815839;
- text-align: center;
- color: #eb0884;
- margin-left: 50px;
- margin-right: 50px;
-}
+h1{
+    text-transform: uppercase;
+    border-bottom: 2px solid blue;
+    text-align: left;
+    color: #2541b2;
+   }
+   
+   h2 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #815839;
+    text-align: center;
+    color: #0400f8;
+    margin-left: 50px;
+    margin-right: 50px;
+   }
 
 .videos {
  width: 1000px;
@@ -134,6 +134,11 @@ li{
     margin-left: 415px;
     font-size: 20px;
 }
+
+.tools {
+    background: lightblue;
+    text-align: center;
+   }
 /*----------------------------------End Of Styling for elements----------------------------------*/
 
 
