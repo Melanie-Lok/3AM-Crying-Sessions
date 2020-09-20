@@ -136,57 +136,6 @@ li{
 }
 /*----------------------------------End Of Styling for elements----------------------------------*/
 
-/*----------------------------------ContactUs Styling for elements----------------------------------*/
-.price {
- color: #eb0884;
-}
-.activity {
- background: #dda82e;
-}
-
-label {
- color: #ffffff;
- font-size: 30px;
-}
-.label-style{
-    text-align: left;
-}
-.submission {
- width: 500px;
- background: #ffbe0b;
- padding: 50px;
-}
-.submit-button{
-    text-align: left;
-    margin-left: 195px;
-}
-.contact {
- display: flex;
- flex-direction: row;
- margin: auto;
- justify-content: space-between;
- padding: 20px;
-}
-.contactdetails {
- display: flex;
- flex-direction: column;
- margin: auto;
- justify-content: space-between;
- background: #FFb640;
- padding: 50px;
-}
-.hours {
- background:#FFb640;
- width: 500px;
- margin: auto;
-}
-/* gives emphasis to the labels of each field */
-label{
-    color: #003cff;
-    font-size: 30px;
-}
-/*----------------------------------End Of ContactUs Styling for elements----------------------------------*/
-
 
 
 /*----------------------------------Table Styling for elements----------------------------------*/
