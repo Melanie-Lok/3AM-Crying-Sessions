@@ -179,4 +179,41 @@ img {
     width: 30%;
 }
 
+ #justificationtable {
+    padding:5px;
+    width:100%;
+}
+
+#justificationtable th{
+    background-color: #ef233c;
+    font-size: 20px;
+    padding:15px;
+    width: 25%;
+}
+
+#justificationtable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#justificationtable tr {
+    font-size: 16px;
+    padding: 5px;
+}
+
+#justificationtable td {
+    text-align: center;
+    padding:10px;
+    font-size: 16px;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 30;
+    padding-bottom: 10px;
+}
+
+dd{
+    padding:10px;
+}
+
 /*----------------------------------End Of Table Styling for elements----------------------------------*/
