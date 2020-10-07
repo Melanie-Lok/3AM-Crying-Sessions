@@ -27,7 +27,6 @@
         <br>
         <h3> This website is designed to help individuals learn how to use modern day apps and resources.</h3>
         <h3> In this website, you can learn how to use basic functions for apps such as; Facebook, Outlook, WhatsApp, Google Maps and Centrelink </h3>
-        <h3> FUCKK OFF MEL </h3>
     </div>
 
 </div>
